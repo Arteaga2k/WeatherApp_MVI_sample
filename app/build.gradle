@@ -98,6 +98,7 @@ dependencies {
 
     // koin
     implementation 'org.koin:koin-android:2.1.5'
+    implementation 'org.koin:koin-androidx-scope:2.1.5'
 
     // view pager indicator
     implementation 'com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2'
